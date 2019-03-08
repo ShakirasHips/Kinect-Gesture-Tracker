@@ -10,5 +10,6 @@
 <li>Nite2</li>
 <li>FTLG</li>
 <li>FreeType</li>
+<li>Opengl</li>
 <li>Kinect Drivers, Kinect SDK 1.8 for windows, Openkinect for Linux </li>
 </ul>
